@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\extatt\extatt\obj\Debug\net48\extatt.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\extatt\extatt\obj\Debug\net48\extatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\extatt\extatt\obj\Debug\net48\extatt.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\extatt\extatt\obj\Debug\net48\extatt.AssemblyInfo.cs
+C:\Users\user\source\repos\extatt\extatt\obj\Debug\net48\extatt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\extatt\extatt\bin\Debug\net48\extatt.dll
+C:\Users\user\source\repos\extatt\extatt\bin\Debug\net48\extatt.pdb
+C:\Users\user\source\repos\extatt\extatt\obj\Debug\net48\extatt.dll
+C:\Users\user\source\repos\extatt\extatt\obj\Debug\net48\extatt.pdb
+C:\Users\user\AppData\Local\Temp\opencode\buildcheck\extatt.dll
+C:\Users\user\AppData\Local\Temp\opencode\buildcheck\extatt.pdb
